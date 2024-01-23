@@ -17,7 +17,7 @@
     color: black;
 }
 
-.topnav a.activePage {
+a.activePage {
     background-color: #e7760c;
     color: white;
 }
